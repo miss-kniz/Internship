@@ -1,4 +1,4 @@
-<h1>1 Month Internship Project at CodeAlpha</h1>
+<h1>Internship Projects at CodeAlpha</h1>
 <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFVBPbc6-yxoA/company-logo_200_200/company-logo_200_200/0/1677167041761?e=1747267200&v=beta&t=m2x4tspVpGJFK8hNxnI-wBN3OCzs6L4ShZn8FYjawBY" alt="CodeAlpha logo" />
 <hr />
 <h2>Nature Lovers Image Gallery</h2>
