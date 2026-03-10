@@ -31,7 +31,7 @@
       </p>
     </details>
   </li>
-  <li>See it in action <a href="https://kaniz-naqvi.github.io/Internship/CodeAlpha_Project-IMAGE-GALLERY/gallery.html" target="_blank">here</a></li>
+  <li>See it in action <a href="https://miss-kniz.github.io/Internship/CodeAlpha_Project-IMAGE-GALLERY/gallery.html" target="_blank">here</a></li>
 </ul>
 
 
@@ -69,7 +69,7 @@
       </p>
     </details>
   </li>
-  <li>See it in action <a href="https://kaniz-naqvi.github.io/Internship/CodeAlpha-project-Calculator/cal.html" target="_blank">here</a></li>
+  <li>See it in action <a href="https://miss-kniz.github.io/Internship/CodeAlpha-project-Calculator/cal.html" target="_blank">here</a></li>
 </ul>
 <div>
         <h2>My Portfolio Website</h2>
@@ -94,7 +94,7 @@
                     </p>
                 </details>
             </li>
-            <li>See it in action<a href="https://kaniz-naqvi.github.io/Internship/CodeAlpha_Project_portfolio/portfolio.html" target="_blank"> here.</a></li>
+            <li>See it in action<a href="https://miss-kniz.github.io/Internship/CodeAlpha_Project_portfolio/portfolio.html" target="_blank"> here.</a></li>
         </ul>
 </div>
 
